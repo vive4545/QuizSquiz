@@ -1,0 +1,22 @@
+question_data = [
+    {"type":"boolean","difficulty":"hard","category":"Science: Mathematics","question":"If you could fold a piece of paper in half 50 times, its thickness will be 3/4th the distance from the Earth to the Sun.","correct_answer":"True","incorrect_answers":["False"]},
+    {"type":"boolean","difficulty":"medium","category":"Entertainment: Television","question":"An episode of 'The Simpsons' is dedicated to Moe Szyslak's bar rag.","correct_answer":"True","incorrect_answers":["False"]},
+    {"type":"boolean","difficulty":"hard","category":"General Knowledge","question":"In Scandinavian languages, the letter Å means river.","correct_answer":"True","incorrect_answers":["False"]},
+    {"type":"boolean","difficulty":"medium","category":"Animals","question":"The average lifespan of a wildcat is only around 5-6 years.","correct_answer":"False","incorrect_answers":["True"]},
+    {"type":"boolean","difficulty":"medium","category":"Entertainment: Film","question":"There aren't any live-action clones in 'Star Wars: Episode III - Revenge of the Sith'.","correct_answer":"True","incorrect_answers":["False"]},
+    {"type":"boolean","difficulty":"hard","category":"General Knowledge","question":"Stagecoach owned 'South West Trains' before losing the rights to FirstGroup and MTR in March of 2017.","correct_answer":"True","incorrect_answers":["False"]},
+    {"type":"boolean","difficulty":"medium","category":"General Knowledge","question":"Sitting for more than three hours a day can cut two years off a person's life expectancy.","correct_answer":"True","incorrect_answers":["False"]},
+    {"type":"boolean","difficulty":"easy","category":"Science & Nature","question":"Celiac Disease is a disease that affects the heart, causing those affected to be unable to eat meat.","correct_answer":"False","incorrect_answers":["True"]},
+    {"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"The film '2001: A Space Odyssey' was released on December 31st, 2000.","correct_answer":"False","incorrect_answers":["True"]},
+    {"type":"boolean","difficulty":"medium","category":"Entertainment: Television","question":"In 'Star Trek', Klingons respect William Shakespeare, they even suspect him having a Klingon lineage.","correct_answer":"True","incorrect_answers":["False"]},
+    {"type":"boolean","difficulty":"medium","category":"Geography","question":"The longest place named in the United States is Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, located near Webster, MA.","correct_answer":"True","incorrect_answers":["False"]},
+    {"type":"boolean","difficulty":"easy","category":"Entertainment: Board Games","question":"The Angry Video Game Nerd's alter ego is 'Board James'.","correct_answer":"True","incorrect_answers":["False"]},
+    {"type":"boolean","difficulty":"medium","category":"Entertainment: Video Games","question":"The Sniper's SMG in Team Fortress 2, was originally intended to be the Scout's primary weapon.","correct_answer":"True","incorrect_answers":["False"]},
+    {"type":"boolean","difficulty":"medium","category":"Science & Nature","question":"A person can get sunburned on a cloudy day.","correct_answer":"True","incorrect_answers":["False"]},
+    {"type":"boolean","difficulty":"medium","category":"Science: Computers","question":"MacOS is based on Linux.","correct_answer":"False","incorrect_answers":["True"]},
+    {"type":"boolean","difficulty":"easy","category":"Politics","question":"One of Barack Obama's United States presidential campaign slogans was 'Yes We Can'.","correct_answer":"True","incorrect_answers":["False"]},
+    {"type":"boolean","difficulty":"easy","category":"Science & Nature","question":"Not including false teeth; A human has two sets of teeth in their lifetime.","correct_answer":"True","incorrect_answers":["False"]},
+    {"type":"boolean","difficulty":"medium","category":"Science: Mathematics","question":"A 'Millinillion' is a real number.","correct_answer":"True","incorrect_answers":["False"]},
+    {"type":"boolean","difficulty":"easy","category":"Entertainment: Video Games","question":"The Mann Co. Store from Team Fortress 2 has the slogan 'We hire mercenaries and get in fights'.","correct_answer":"False","incorrect_answers":["True"]},
+    {"type":"boolean","difficulty":"hard","category":"History","question":"The Battle of Trafalgar took place on October 23rd, 1805.","correct_answer":"False","incorrect_answers":["True"]}
+]
